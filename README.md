@@ -14,14 +14,14 @@ I have included the UI prototypes created using Figma for the Skill Passport mob
 #### Login:
 <img width="1591" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/ec8b30fa-608e-41a4-8ca4-5b2ca22700a1">
 
-#### Apprentice:
+#### Apprentice View:
 <img width="1591" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/e270c91f-0ef7-4af5-8d1f-a8556dd3d5a3">
 
 <img width="1592" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/7da745e1-1f0e-4b32-836c-7a87173ca0bc">
 
 ---
 
-#### Mentor:
+#### Mentor View:
 <img width="1595" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/915bc38f-c224-42ce-8b02-9ed629488382">
 
 <img width="1584" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/cdc1e57d-b5bf-40d6-94a8-cb7e83a2804f">
