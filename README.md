@@ -7,7 +7,7 @@ The application supports both Android and iOS systems.
 
 **Note:** Due to confidentiality agreements, I cannot share the actual code for these industrial projects. However, I'm happy to discuss my role, responsibilities, and the impact of these projects in more detail.
 
-## UI Prototype
+### UI Prototype
 
 I have included the UI prototypes created using Figma for the Skill Passport mobile app in this repository. These prototypes demonstrate my design skills and approach to user interface development.
 
