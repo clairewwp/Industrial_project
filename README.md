@@ -7,11 +7,11 @@ The application supports both Android and iOS systems.
 
 **Note:** Due to confidentiality agreements, I cannot share the actual code for these industrial projects. However, I'm happy to discuss my role, responsibilities, and the impact of these projects in more detail.
 
-### UI Prototype
+## UI Prototype
 
 I have included the UI prototypes created using Figma for the Skill Passport mobile app in this repository. These prototypes demonstrate my design skills and approach to user interface development.
 
-Login:
+#### Login:
 <img width="1591" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/ec8b30fa-608e-41a4-8ca4-5b2ca22700a1">
 
 #### Apprentice:
