@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Skills Passport application aims to facilitate targeted support by regularly prompting, collecting, and analyzing feedback from apprentices throughout the workforce. Specifically, within this application, apprentices can document their daily skill achievements using checkboxes and report any issues they encounter in written form. Their mentors can review and provide comments on this information. Furthermore, mentors can assign new skills and track completed ones for their apprentices.
+This mobile application - Skills Passport, is developed using React Native on Expo Snack. It aims to facilitate targeted support by regularly prompting, collecting, and analyzing feedback from apprentices throughout the workforce. Specifically, within this application, apprentices can document their daily skill achievements using checkboxes and report any issues they encounter in written form. Their mentors can review and provide comments on this information. Furthermore, mentors can assign new skills and track completed ones for their apprentices.
 The application supports both Android and iOS systems.
 
 **Note:** Due to confidentiality agreements, I cannot share the actual code for these industrial projects. However, I'm happy to discuss my role, responsibilities, and the impact of these projects in more detail.
