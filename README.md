@@ -3,13 +3,14 @@
 ## Overview
 
 The Skills Passport application aims to facilitate targeted support by regularly prompting, collecting, and analyzing feedback from apprentices throughout the workforce. Specifically, within this application, apprentices can document their daily skill achievements using checkboxes and report any issues they encounter in written form. Their mentors can review and provide comments on this information. Furthermore, mentors can assign new skills and track completed ones for their apprentices.
-The application supports both android and ios systems.
+The application supports both Android and iOS systems.
 
-**Note:** Due to confidentiality agreements, I'm unable to share the actual code for these industrial projects. However, I'm happy to discuss my role, responsibilities, and the impact of these projects in more detail.
+**Note:** Due to confidentiality agreements, I cannot share the actual code for these industrial projects. However, I'm happy to discuss my role, responsibilities, and the impact of these projects in more detail.
 
-## UI Prototypes
+## UI Prototype
 
-In this repository, I have included UI prototype created using Figma for the Skill Passport mobile app. These prototypes demonstrate my design skills and approach to user interface development.
+I have included the UI prototypes created using Figma for the Skill Passport mobile app in this repository. These prototypes demonstrate my design skills and approach to user interface development.
+
 Login:
 <img width="1591" alt="image" src="https://github.com/clairewwp/Industrial_project/assets/104426974/ec8b30fa-608e-41a4-8ca4-5b2ca22700a1">
 
